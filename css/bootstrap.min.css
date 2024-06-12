@@ -1,0 +1,86 @@
+.row.content {
+    height: 990px
+}
+
+.sidenav {
+    background-color: #000000;
+    height: 100%;
+}
+
+.white {
+    text-align: center;
+    color: white;
+}
+
+.novo {
+    text-align: center;
+}
+
+.mb-3 {
+    margin-top: 60px;
+}
+
+.tudo {
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.card {
+    flex-direction: row;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 80px;
+    width: 18rem;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-img-top {
+    width: 400px;
+}
+
+.Título {
+    font-size: large;
+    float: right;
+}
+
+.cliente {
+    text-align: center;
+
+}
+
+.pix {
+    margin-left: 370px;
+    margin-right: 370px;
+
+}
+
+.serviços {
+    margin-left: 370px;
+    margin-right: 370px;
+}
+
+.clienteimg {
+    flex-direction: row;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 80px;
+    width: 18rem;
+}
+
+.saldo {
+    width: 400px;
+    max-height: 50px;
+    max-width: 100px;
+}
+
+.imagem-pequena {
+    max-width: 300px;
+    height: auto;
+}
+
+.emprestimo {
+    font-size: x-small;
+}
